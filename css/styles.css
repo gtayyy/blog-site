@@ -1,0 +1,27 @@
+.header-highlight {
+    font-size: 60px;
+    font-family: monospace;
+    font-style: italic;
+    text-decoration: underline;
+    color: tomato;
+}
+
+h1 {
+    text-align: left;
+    font-size: 50;
+}
+
+.header-pic {
+    text-align: center;
+}
+
+.about-me {
+    color: aqua;
+    background-color: rgb(44, 47, 50);
+    text-align: right;
+    font-stretch: semi-expanded;
+    font-family: fantasy;
+    font-weight: 200%;
+    width: 70vw;
+    height: 30vh;
+}
