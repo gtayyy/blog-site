@@ -19,13 +19,16 @@ h1 {
 
 .about-me {
     color: aqua;
-    background-color: rgb(44, 47, 50);
     text-align: right;
     font-stretch: semi-expanded;
     font-family: fantasy;
     font-weight: 200%;
     width: 70vw;
     height: 30vh;
+    margin: 12px;
+    border: 2px solid green;
+    padding: 4px;
+    background-color: orange;
 }
 
 img {
